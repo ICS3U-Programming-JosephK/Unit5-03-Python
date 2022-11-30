@@ -6,7 +6,7 @@
 
 
 # Defining the function that checks the level and return the middle percentage
-# Attempted using switch case but failed terribly!
+# Attempted to use the switch case but failed terribly!
 def calc_mark(level):
     if level == "4+":
         return "97.5%."
